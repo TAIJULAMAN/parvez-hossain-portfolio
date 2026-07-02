@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "node api.js && vite",
+    "build": "node api.js && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
